@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">startup_hackathon2.0</string>
+    <string name="app_name">Aptitude Agent</string>
+    <string name="app_tagline">Detective Edition</string>
+    <string name="splash_title">Aptitude Agent</string>
+    <string name="splash_subtitle">Detective Edition</string>
+    <string name="home_title">Detective HQ</string>
+    <string name="solve_case">Solve Case</string>
+    <string name="case_files">Case Files</string>
+    <string name="daily_mystery">Daily Mystery</string>
+    <string name="profile">Detective Profile</string>
+    <string name="case_solved">Case Solved!</string>
+    <string name="continue_text">Continue</string>
+    <string name="back">Back</string>
+    <string name="submit_answer">Submit Answer</string>
+    <string name="need_hint">Need a Hint?</string>
+    <string name="clue_progress">Clues Solved: %1$d/5</string>
+    <string name="xp_earned">XP Earned: +%1$d</string>
+    <string name="loading">Loading...</string>
 </resources>
